@@ -1,1 +1,1 @@
-# C
+# Only C, Only Hardcore!
